@@ -36,7 +36,7 @@ If you are on Windows, you **must** install Npcap before running the script.
 Open your terminal (Terminal on Linux/Mac, or **Git Bash** on Windows) and run:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/client.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/aliz-f/paqet-installer/main/client.sh)
 ```
 
 Follow the on-screen prompts to enter the **IP**, **Port**, and **Secret Key** provided by the server script.
