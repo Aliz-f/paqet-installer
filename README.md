@@ -15,7 +15,7 @@ These scripts streamline the deployment process by:
 Run this command on your **Server** (Linux VPS). This will install dependencies, configure the firewall, and generate your Secret Key.
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/server.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ali-f/paqet-installer/main/server.sh)
 ```
 
 **⚠️ After the script finishes:**
